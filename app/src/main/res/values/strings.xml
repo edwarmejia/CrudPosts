@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Crud</string>
+    <string name="hello_world">Hola Mundo!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title">HangDroid</string>
+    <string name="title_activity_list_view">ListViewActivity</string>
+    <string name="title_activity_list_detail">ListDetailActivity</string>
+    <string name="title_activity_list_detail_actvity">ListDetailActvity</string>
+    <string name="title_activity_adapters">AdaptersActivity</string>
+    <string name="title_activity_create_post">CreatePostActivity</string>
+    <string name="title_activity_list_post">ListPostActivity</string>
+    <string name="title_activity_form_post">FormPostActivity</string>
+    <string name="title_activity_post_detail_activty">PostDetailActivty</string>
+    <string name="title_activity_list_buscar_post">ListBuscarPostActivity</string>
+    <string name="title_activity_form_edit">FormEditActivity</string>
+    <string name="title_activity_adasdasdf">adasdasdf</string>
+    <string name="title_activity_modificar_post">ModificarPostActivity</string>
+</resources>
